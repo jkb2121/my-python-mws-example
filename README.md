@@ -1,5 +1,5 @@
 # my-python-mws-example
-My example of using python-amazon-mws to hit the MWS API
+My example of using [python-amazon-mws](https://github.com/czpython/python-amazon-mws) to hit the MWS API
 
 Look at the image called mws-credentials.png.  That's where all of the MWS Credentials inputs come from.  Use your SellerCentral "Owner" account and check it out.
 ![Credentials](https://github.com/jkb2121/my-python-mws-example/blob/master/mws-credentials.png "Example Credentials")
