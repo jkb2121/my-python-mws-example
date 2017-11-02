@@ -1,0 +1,17 @@
+# Example File - All the codes (except Amazon Marketplace ID's)
+# are made up to match the screenshot, you'll need to generate your own
+mws_account_info:
+    # Seller Account:
+    account_id: 'A9CBH13C138MXJ'
+
+    # Developer Account Specific: 
+    auth_token: '1234-4567-8901'
+    access_key: 'ALKKJSDLFJKLKLJSLKJL'
+    secret_key: 'GFOofwqvFLKJEOomosfoeOJSDFKJkjFKJOSjkb'
+
+    # Amazon Marketplace ID
+    marketplace_id: 'ATVPDKIKX0DER'  # Amazon.com
+    # marketplace_id: A2EUQ1WTGCTBG2 # (Amazon.ca)
+    # marketplace_id: A1AM78C64UM0Y8 # (Amazon.com.mx)
+
+ 
